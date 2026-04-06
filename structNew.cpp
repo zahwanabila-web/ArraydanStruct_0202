@@ -18,4 +18,8 @@ int main() {
     cin >> mhs.alamat;
     cout << "Umur : " ;
     cout << endl;
+    // tampilkan 
+    cout << "Menampilkan Data" << endl;
+    cout << " Nama : " << mhs.nama << endl;
+    
 }
