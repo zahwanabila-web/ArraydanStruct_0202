@@ -8,5 +8,9 @@ int main() {
     //deklarasi array tanpa inisialisasi
     int kamu[5];
     //tampilkan data(mwmbaca data array)
-    cout <<"Data pada index 1 = "<< aku[1 << endl;]
+    cout <<"Data pada index 1 = "<< aku[1]<< endl;
+    // ganti index ke 1(menulis data array)
+    aku[1] = 200;
+    cout << endl;
+    cout << "Data pada index 1 = " << aku[1] << endl;
 }
