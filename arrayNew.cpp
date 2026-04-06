@@ -29,4 +29,6 @@ int main() {
     cout << "Data pertama = " << kamu[0] << endl;
     cout << "Data kedua = " << kamu[1] << endl;
     cout << "Data ketiga = " << kamu[2] << endl;
+    cout << "Data keempat = " << kamu[3] << endl;
+    cout << "Data kelima = " << kamu[4] << endl;
 }
