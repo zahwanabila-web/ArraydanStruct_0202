@@ -22,4 +22,7 @@ int main() {
     cin >> kamu [2];
     cout << "Data index 3 = ";
     cin >> kamu [3];
+    cout << "Data index 4 = ";
+    cin >> kamu [4];
+    cout << endl;
 }
