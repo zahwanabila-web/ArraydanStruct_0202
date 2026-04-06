@@ -25,4 +25,8 @@ int main() {
     cout << "Data index 4 = ";
     cin >> kamu [4];
     cout << endl;
+    //Menampilkan satu per satu
+    cout << "Data pertama = " << kamu[0] << endl;
+    cout << "Data kedua = " << kamu[1] << endl;
+    cout << "Data ketiga = " << kamu[2] << endl;
 }
